@@ -1,4 +1,3 @@
-
 import React from 'react'
 export default function AboutPage() {
   return (
@@ -16,7 +15,7 @@ export default function AboutPage() {
       </h1>
       <p class="mx-auto mb-8 max-w-2xl text-lg text-slate-700">
         Build modern and beautiful websites with this collection of stunning background patterns. 
-        Perfect for landing pages, apps, and dashboards.
+        Perfect for landing pages, apps, and dashboards. extra word
       </p>
       <div class="flex flex-wrap justify-center gap-4">
         <button class="rounded-lg px-6 py-3 font-medium bg-sky-900 text-white hover:bg-sky-800">
